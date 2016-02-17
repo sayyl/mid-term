@@ -1,10 +1,3 @@
-Sinatra
-=============
+This is a MVP team midterm project built within a 5-day time limit. 
 
-Brought to you by Lighthouse Labs
-
-## Getting Started
-
-1. `bundle install`
-2. `shotgun -p 3000 -o 0.0.0.0`
-3. Visit `http://localhost:3000/` in your browser
+We were given the topic of an app that "helps the user budget via guilt". We decided to create a fun, cheeky app that lets users input any dream item and its price then have it compared against the cost of a cup of coffee. Depending on the dream item's comparative value to a single cup of coffee, the user will either see a snarky message and an visual representation of how many coffees they're giving up or be redirected to a map showing the closest coffee shops within a 250m radius. Built with Ruby, Sinatra, Javascript, HTML, CSS, Google API.
